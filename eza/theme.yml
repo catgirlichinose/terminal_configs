@@ -42,7 +42,7 @@ size:
   unit_huge: {foreground: "#74C7EC"}
 
 users:
-  user_you: {foreground: "#CBA6F7"}
+  user_you: {foreground: "#A6E3A1"}
   user_root: {foreground: "#F38BA8"}
   user_other: {foreground: "#CDD6F4"}
   group_yours: {foreground: "#BAC2DE"}

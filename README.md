@@ -4,3 +4,4 @@
 - Zsh config (slightly modified from [zenshrc](https://github.com/dreamsofautonomy/zensh/blob/))
 - Fastfetch setup
 - oh-my-posh theme (currently using [this](https://github.com/IrwinJuice/catppuccin.omp))
+- eza theme (being modified often because i can't make up my mind)
