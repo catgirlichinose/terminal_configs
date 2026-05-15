@@ -1,4 +1,4 @@
-# Configuration for various stuff i use for day to day activities
+# Configurations for various stuff i use for day to day activities
 
 **CURRENTLY** INCLUDES:
 - Zsh config (slightly modified from [zenshrc](https://github.com/dreamsofautonomy/zensh/blob/))
